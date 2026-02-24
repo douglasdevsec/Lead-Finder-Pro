@@ -1,0 +1,7 @@
+{
+  "name": "Lead Finder Pro",
+  "description": "A web application to find potential business leads using Google Maps data. It allows users to search for businesses, view them on a map, and scrape contact information like emails, phone numbers, and social media links.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
